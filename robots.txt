@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahtisham02.github.io/resources-b2r1jx/sitemap.xml
